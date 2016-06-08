@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:47:12.430415
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 15:47
 #+TITLE: 大般若經綱要
 #+PROPERTY: CBETA_ID X24n0449
 #+PROPERTY: ID KR6c0228
